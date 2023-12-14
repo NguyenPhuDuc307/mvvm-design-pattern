@@ -25,7 +25,7 @@ Update the `ViewModels/CourseRequest.cs` file with the following code:
 ```c#
 using System.ComponentModel.DataAnnotations;
 
-namespace MvcCourse.ViewModels;
+namespace CourseManagement.ViewModels;
 
 public class CourseRequest
 {
@@ -60,7 +60,7 @@ Update the `Data/Entities/Course.cs` file with the following code:
 ```c#
 using System.ComponentModel.DataAnnotations;
 
-namespace MvcCourse.Data.Entities;
+namespace CourseManagement.Data.Entities;
 
 public class Course
 {
@@ -94,9 +94,9 @@ Update the `ViewModels/AutoMapper/AutoMapperProfile.cs` file with the following 
 
 ```c#
 using AutoMapper;
-using MvcCourse.Data.Entities;
+using CourseManagement.Data.Entities;
 
-namespace MvcCourse.ViewModels.AutoMapper
+namespace CourseManagement.ViewModels.AutoMapper
 {
 
     public class AutoMapperProfile : Profile
@@ -277,4 +277,4 @@ Run the following command:
 dotnet watch run
 ```
 
-Next let's [Add search, sorting, pagination to ASP.NET Core MVC application](https://github.com/NguyenPhuDuc307/).
+Next let's [Use dependency injection in .NET](https://github.com/NguyenPhuDuc307/).
