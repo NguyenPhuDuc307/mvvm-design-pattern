@@ -277,4 +277,4 @@ Run the following command:
 dotnet watch run
 ```
 
-Next let's [Use dependency injection in .NET](https://github.com/NguyenPhuDuc307/).
+Next let's [Use dependency injection in .NET](https://github.com/NguyenPhuDuc307/dependency-injection).
