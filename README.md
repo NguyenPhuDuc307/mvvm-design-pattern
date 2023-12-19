@@ -6,7 +6,7 @@ In this section:
 
 - Implement MVVM design pattern (Model-View-ViewModel), combined use AutoMapper to automatically map models.
 
-Before coming to this guide, please refer to [Seed the database an ASP.NET Core MVC application](https://github.com/NguyenPhuDuc307/seed-the-database).
+Before coming to this guide, please refer to [Part 4: Seed the database an ASP.NET Core MVC application](https://github.com/NguyenPhuDuc307/seed-the-database).
 
 ## What is MVVM pattern?
 
@@ -277,4 +277,4 @@ Run the following command:
 dotnet watch run
 ```
 
-Next let's [Use dependency injection in .NET](https://github.com/NguyenPhuDuc307/dependency-injection).
+Next let's [Part 6: Use dependency injection in .NET](https://github.com/NguyenPhuDuc307/dependency-injection).
