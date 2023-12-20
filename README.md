@@ -18,7 +18,7 @@ Design patterns are exceptionally useful, no matter which platform or language y
 
 ## Add a Request and ViewModel
 
-Add a file named `CourseRequest.cs` to the `ViewModels` folder, create it in your project's source folder.
+Add a file named `CourseViewModel.cs` to the `ViewModels` folder, create it in your project's source folder.
 
 Update the `ViewModels/CourseRequest.cs` file with the following code:
 
